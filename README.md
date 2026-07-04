@@ -51,6 +51,9 @@ The final fine-tuned model achieved more than **85% accuracy** on the training, 
 - **labels.txt** — Class labels generated automatically from the training dataset.
 - **README.md** — Project documentation.
 
+## Complete Link
+https://drive.google.com/drive/folders/1jGTUr670Zcj_4OJY1ZiEXCC3JHfanu3C?usp=drive_link
+
 ## 👨‍💻 Author
 
 **Srie Wahyudhanis Hadis**  
